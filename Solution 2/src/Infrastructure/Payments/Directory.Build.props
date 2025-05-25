@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<RootNamespace>AcmeWidgetCompany.Payments.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+		<AssemblyName>AcmeWidgetCompany.Payments.$(MSBuildProjectName)</AssemblyName>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<RootNamespace>AcmeWidgetCompany.Domain.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+		<AssemblyName>AcmeWidgetCompany.Domain.$(MSBuildProjectName)</AssemblyName>
+	</PropertyGroup>
+</Project>
